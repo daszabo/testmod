@@ -1,1 +1,1 @@
-module github.com/daszabo/testmod
+module github.com/daszabo/testmod/v2
